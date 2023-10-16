@@ -23,4 +23,4 @@ async def podelka(ctx):
     await ctx.send(f"Случайная поделка из природных материалов: {chosen_podelka}")
 
 # Запуск бота
-bot.run('YOUR_BOT_TOKEN'
+bot.run('MTE1Mjk2MzQyNTQ1NTA1ODk0NA.G7QF6y.hUn-N4f4jWaC0I-_kr3bYQsi-Z5WgeqFgXev2c')
